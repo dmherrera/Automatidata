@@ -14,4 +14,4 @@ Automatidata is consulting for the New York City Taxi and Limousine Commission (
 ### Impact:
 A successful fare estimation model will help TLC provide more accurate fare predictions, improving the user experience for both drivers and passengers. This will enable better planning, budgeting, and overall satisfaction with NYC taxi services.
 
-Join us in this project to enhance the efficiency and accuracy of taxi fare estimations in New York City.
+## Table of Contents:
